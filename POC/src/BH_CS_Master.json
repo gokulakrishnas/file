@@ -1,0 +1,42 @@
+
+{
+
+'BH_CSWS02_Status':'',
+
+'BH_WebserviceStatusCIS':'CIS',
+'BH_WebserviceStatusC':'C',
+'BH_WebserviceStatusError':'Error',
+'BH_WebserviceStatusOMS':'OMS',
+'BH_WebserviceStatusREST':'REST',
+ 
+ 'BH_WebserviceID':'',
+'audioInput': '',
+'gender': '',
+'language": '',
+'voiceName': '',
+'audioType': '',
+'fileName': '',
+
+'name':'',
+'audioString':''
+
+'BH_CSWS02':
+	{
+		'Request':
+		{
+			'audioInput': 'welcome to pointel solution hello every body',
+'gender': 'male',
+'language": 'en-US',
+'voiceName': 'en-US-Standard-B',
+'audioType': 'mp3',
+'fileName': 'pointel'
+	
+		},
+		
+		'GetResponse':
+		{
+	
+		}
+	},
+
+}
