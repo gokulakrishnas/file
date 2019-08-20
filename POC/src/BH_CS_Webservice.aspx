@@ -12,13 +12,13 @@
 		 
         JObject result = new JObject();
         JObject appSession = ((JObject)state["appSession"]);//Getting appsession
-        JObject cxiSession = new JObject();
+      
         
        
   	    JObject requestObj;
   	    JObject requestObj1;
   		JObject WS_Response;
-  		JArray response;
+  		
     	try 
     	{ 
     		
