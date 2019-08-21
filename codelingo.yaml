@@ -1,3 +1,5 @@
 tenets:
 - import: codelingo/code-review-comments/short-reader-variable
 - import: codelingo/kubernetes
+- import: codelingo/php/eval-expression
+- import: codelingo/effective-go/loop-variable-used-in-go-routine
